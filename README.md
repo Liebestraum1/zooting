@@ -37,7 +37,7 @@
 
 ## 수상🏆
   
-<img src="./assets/award/SSAFY%20pjt%20award.jpg" style="width: 70%">
+<img src="./assets/award/SSAFY%20pjt%20award.jpg" style="width: 40%">
 
   ### 수상내역
   - 🏅 공통프로젝트 UCC경진대회 입상

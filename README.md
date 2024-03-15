@@ -36,8 +36,8 @@
 누구나 가볍고 즐겁게, 동물상 미팅의 시작! Zooting의 UCC입니다.
 
 ## 수상🏆
-  
-<img src="./assets/award/SSAFY%20pjt%20award.jpg" style="width: 400px">
+
+![](./assets/award/SSAFY%20pjt%20award.jpg)
 
   ### 수상내역
   - 🏅 공통프로젝트 UCC경진대회 입상
